@@ -12,7 +12,7 @@
 * Go to https://github.com/Mte90/Participation-Lead-Map
 * Choose the file `leaders.json` - https://github.com/Mte90/Participation-Lead-Map/blob/gh-pages/leaders.json 
 * Tap the pencil icon - near the history button - at the top of ther file **OR** https://github.com/Mte90/Participation-Lead-Map/edit/gh-pages/leaders.json 
-* Add your dates in a similar form as those already filed enter between `},{` or copy this:  
+* Add your dates in a similar form as those already entered between `},{` or copy this:  
 ```            
 ,{
       "name": "FirstName LastName", 
